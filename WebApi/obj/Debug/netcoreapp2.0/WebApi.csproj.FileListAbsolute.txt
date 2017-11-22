@@ -11,3 +11,16 @@ C:\Users\Esteban\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.Assem
 C:\Users\Esteban\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
 C:\Users\Esteban\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
 C:\Users\Esteban\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\bin\Debug\netcoreapp2.0\Logica.dll
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\bin\Debug\netcoreapp2.0\Logica.pdb
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+C:\Users\Esteban\Documents\Projects\Agiles\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
