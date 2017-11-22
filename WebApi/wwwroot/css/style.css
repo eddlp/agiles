@@ -1,0 +1,21 @@
+﻿h1, h2, h3, p, a, li, ul, span, button, label {
+    font-family: 'Barlow Semi Condensed', sans-serif!important;
+}
+
+.title-page {
+    text-align: center;
+    letter-spacing: 4px;
+    border-bottom: solid 1px black;
+}
+
+.wrapper-config {
+    padding-bottom: 30px;
+}
+.wrapper-game {
+    border-top: solid 1px black;
+    padding-bottom: 30px;
+}
+.wrapper-stadistics {
+    border-top: solid 1px black;
+}
+

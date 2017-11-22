@@ -1,0 +1,9 @@
+C:\Users\Esteban\source\repos\WebApi\Logica\bin\Debug\netcoreapp2.0\Logica.deps.json
+C:\Users\Esteban\source\repos\WebApi\Logica\bin\Debug\netcoreapp2.0\Logica.dll
+C:\Users\Esteban\source\repos\WebApi\Logica\bin\Debug\netcoreapp2.0\Logica.pdb
+C:\Users\Esteban\source\repos\WebApi\Logica\obj\Debug\netcoreapp2.0\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\source\repos\WebApi\Logica\obj\Debug\netcoreapp2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\WebApi\Logica\obj\Debug\netcoreapp2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Esteban\source\repos\WebApi\Logica\obj\Debug\netcoreapp2.0\Logica.AssemblyInfo.cs
+C:\Users\Esteban\source\repos\WebApi\Logica\obj\Debug\netcoreapp2.0\Logica.dll
+C:\Users\Esteban\source\repos\WebApi\Logica\obj\Debug\netcoreapp2.0\Logica.pdb
