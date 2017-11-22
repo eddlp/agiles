@@ -1,0 +1,11 @@
+C:\Users\Esteban\source\repos\WebApi\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.deps.json
+C:\Users\Esteban\source\repos\WebApi\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.runtimeconfig.json
+C:\Users\Esteban\source\repos\WebApi\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.runtimeconfig.dev.json
+C:\Users\Esteban\source\repos\WebApi\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.dll
+C:\Users\Esteban\source\repos\WebApi\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.pdb
+C:\Users\Esteban\source\repos\WebApi\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\source\repos\WebApi\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\WebApi\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.AssemblyInfoInputs.cache
+C:\Users\Esteban\source\repos\WebApi\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.AssemblyInfo.cs
+C:\Users\Esteban\source\repos\WebApi\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.dll
+C:\Users\Esteban\source\repos\WebApi\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.pdb

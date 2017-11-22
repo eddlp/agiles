@@ -672,11 +672,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Esteban\\source\\repos\\WebApi\\Logica\\Logica.csproj",
+      "projectUniqueName": "C:\\Users\\Esteban\\Documents\\Projects\\Agiles\\Logica\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "C:\\Users\\Esteban\\source\\repos\\WebApi\\Logica\\Logica.csproj",
+      "projectPath": "C:\\Users\\Esteban\\Documents\\Projects\\Agiles\\Logica\\Logica.csproj",
       "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Esteban\\source\\repos\\WebApi\\Logica\\obj\\",
+      "outputPath": "C:\\Users\\Esteban\\Documents\\Projects\\Agiles\\Logica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
